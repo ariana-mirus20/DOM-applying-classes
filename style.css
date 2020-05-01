@@ -31,3 +31,15 @@ div {
   border-radius: 0;
   background-color: white;
 }
+
+.green {
+  background-color: green;
+}
+
+.pink {
+  background-color: rgb(243, 28, 171);
+}
+
+.visible {
+  background-color: rebeccapurple;
+}
